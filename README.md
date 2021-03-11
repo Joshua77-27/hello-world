@@ -1,4 +1,4 @@
-# hello-world
+# Joshua Lagrimas -My First Personal Repo
 This is my first repository and how to actually create my own personal project repo.
 
 I am focused, and reserved and I finish task based on the data and context of my clients and consumers needs 
